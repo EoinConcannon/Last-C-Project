@@ -1,0 +1,59 @@
+Property ID: 1
+First Name: 1
+Last Name: 1
+Year Built: 1
+Monthy Rental: 1.00
+Email Address: example@gmail.com
+Rental Accommodation Type Available: Single_Room
+Bedrooms Available: 3
+Pets Allowed: Yes
+Duration Of Stay: 3 days
+
+Property ID: 2
+First Name: 4
+Last Name: 4
+Year Built: 4
+Monthy Rental: 4.00
+Email Address: 4@4.4
+Rental Accommodation Type Available: Two_Story
+Bedrooms Available: 4
+Pets Allowed: No
+Duration Of Stay: 4 days
+
+Property ID: 5
+First Name: 5
+Last Name: 5
+Year Built: 5
+Monthy Rental: 5.00
+Email Address: 5@5.5
+Rental Accommodation Type Available: Two_Story
+Bedrooms Available: 4
+Pets Allowed: Yes
+Duration Of Stay: 4 days
+
+Property ID: 45
+First Name: Joe
+Last Name: Biden
+Year Built: 1987
+Monthy Rental: 400.00
+Email Address: joe@mail.gov
+Rental Accommodation Type Available: Two_Story
+Bedrooms Available: 1
+Pets Allowed: No
+Duration Of Stay: 3 days
+
+Property ID: 77
+First Name: 3
+Last Name: 3
+Year Built: 3
+Monthy Rental: 3.00
+Email Address: 3@3.3
+Rental Accommodation Type Available: Bungalow
+Bedrooms Available: 3
+Pets Allowed: Yes
+Duration Of Stay: 3 days
+
+20.00% are Single Room Accommodation
+0.00% are Apartment Accommodation
+20.00% are Bungalow Accommodation
+60.00% are Two Story Accommodation
